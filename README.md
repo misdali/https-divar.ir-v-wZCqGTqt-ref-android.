@@ -107,4 +107,4 @@ The official docs are hosted [here][docs]. Each individual component also has ac
 [twitter handle]: https://img.shields.io/twitter/follow/union_build.svg?style=social&label=Follow
 [typescript]: https://www.typescriptlang.org/
 [union.build]: https://union.build
-[`cometbls`]: https://github.com/unionlabs/cometbls
+[`cometbls`]: https://github.com/unionlabs/cometblsi
